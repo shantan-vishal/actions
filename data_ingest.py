@@ -1,5 +1,8 @@
 import pymongo
 import pandas as pd
+black .
+isort .
+
 
 # MongoDB connection
 mongo_uri = "mongodb://root:sa123@10.10.10.142:27018/"
