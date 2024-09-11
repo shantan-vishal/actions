@@ -5,7 +5,7 @@ isort .
 
 
 # MongoDB connection
-mongo_uri = "mongodb://root:sa123@10.10.10.142:27018/"
+mongo_uri = "mongodb://zk_admin:Zkteco*123@10.6.1.179:27019/?authMechanism=DEFAULT&authSource=ralvie_db"
 client = pymongo.MongoClient(mongo_uri)
 
 # Specify the database and collection
